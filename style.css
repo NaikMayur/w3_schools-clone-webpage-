@@ -1,0 +1,72 @@
+.box {
+  background-color: black;
+
+  color: pink;
+}
+.green {
+  background-color: green;
+}
+
+h1 {
+  padding: 50px;
+}
+
+.bolded {
+  font-weight: bold;
+}
+
+.buttonbox {
+  padding: 40px;
+}
+
+.forbutton .btn {
+  width: 250px;
+  border-radius: 50px;
+}
+
+.reference .btn {
+  background-color: aliceblue;
+  border-radius: 50px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  width: 250px;
+}
+
+.certificate .btn {
+  background-color: pink;
+  border-radius: 50px;
+  width: 250px;
+}
+
+.box2 {
+  padding: 50px;
+  padding-top: 70px;
+}
+
+.innerbox {
+  background-color: #e5e4e2;
+  padding: 40px;
+  margin-top: 20px;
+  border-radius: 10px;
+}
+
+.boxtitle {
+  width: 40%;
+  margin: 0;
+  padding: 0%;
+  color: black;
+  font-size: 24px;
+}
+
+.example {
+  background-color: blanchedalmond;
+  color: black;
+  height: 200px;
+  padding: 10px;
+}
+
+.trybtn .btn {
+  border-radius: 50px;
+  vertical-align: middle;
+  margin-top: 20px;
+}
