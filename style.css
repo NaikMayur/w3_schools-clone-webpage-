@@ -1,6 +1,7 @@
 .box {
-  background-color: black;
-
+  background-color: #000;
+}
+.box1 {
   color: pink;
 }
 .green {
@@ -54,15 +55,17 @@ h1 {
   width: 40%;
   margin: 0;
   padding: 0%;
-  color: black;
+  color: #000;
   font-size: 24px;
 }
 
 .example {
   background-color: blanchedalmond;
-  color: black;
   height: 200px;
   padding: 10px;
+}
+.text {
+  color: #000;
 }
 
 .trybtn .btn {
